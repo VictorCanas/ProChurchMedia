@@ -1,0 +1,11 @@
+Python tips and tricks
+
+CMD change directory
+
+cd /D C:\
+
+cd C:\Python27\Scripts
+
+
+
+
